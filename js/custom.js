@@ -34,7 +34,7 @@
 // 1 revolutionSliderActiver
 function revolutionSliderActiver () {
 	if ($('.rev_slider_wrapper #slider1').length) {
-		$("#slider1").revolution({
+		jQuery('#slider1').show().revolution({
 			sliderType:"standard",
 			sliderLayout:"auto",
 			delay:5000,
