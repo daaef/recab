@@ -3448,7 +3448,7 @@ html,body{
 
 .header {
 	/* padding: 35px 0; */
-	height: 135px;
+	min-height: 135px;
 	display: flex;
 	align-items: center;
 }

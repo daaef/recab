@@ -6131,4 +6131,17 @@ iframe.uk-cover {
 .footer-widget img {
   height: 120px; }
 
+@media (max-width: 959px) {
+  .uk-slideshow-items {
+    min-height: 100vh !important; }
+
+  #children .pl-30p {
+    padding: 0 !important; }
+
+  .children:after {
+    content: none; }
+
+  .header-right-info .single-header-info, .logo {
+    width: 100%; } }
+
 /*# sourceMappingURL=main.css.map */
